@@ -12,3 +12,12 @@ echo Bye Manmohan
 
 echo -e "Hai1/nBye1"
 
+#/n is used to print a new line
+
+# Some times we used to colors to be printed with the text.
+
+## Following are the colors that are supported
+
+Syntax: echo -e "\e[COLmMESSAGE"
+
+echo -e "\e[31mWell Come to Devops Training"
