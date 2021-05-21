@@ -24,6 +24,6 @@ echo -e "\e[31mWell Come to Devops Training"
 
 echo -e Good Evening
 
-Disable Color Code  - o
+Disable Color Code  - 0
 
 echo -e "\e[31mWell Come to Devops Training\e[0m"
