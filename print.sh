@@ -18,12 +18,12 @@ echo -e "Hai1/nBye1"
 
 ## Following are the colors that are supported
 
-Syntax: echo -e "\e[COLmMESSAGE"
+# Syntax: echo -e "\e[COLmMESSAGE"
 
 echo -e "\e[31mWell Come to Devops Training"
 
 echo -e Good Evening
 
-Disable Color Code  - 0
+# Disable Color Code  - 0
 
 echo -e "\e[31mWell Come to Devops Training\e[0m"
