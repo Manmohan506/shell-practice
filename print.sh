@@ -21,3 +21,5 @@ echo -e "Hai1/nBye1"
 Syntax: echo -e "\e[COLmMESSAGE"
 
 echo -e "\e[31mWell Come to Devops Training"
+
+echo -e Good Evening
