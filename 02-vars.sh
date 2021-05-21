@@ -4,4 +4,5 @@ a=100
 
 echo A = $a
 
-echo "Welcome, Today date is 2020-04-25"
+DATE=$(date +%F)
+echo "Welcome, Today date is $DATE"
