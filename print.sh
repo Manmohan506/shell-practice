@@ -20,10 +20,10 @@ echo -e "Hai1/nBye1"
 
 # Syntax: echo -e "\e[COLmMESSAGE"
 
-echo -e "\e[31mWell Come to Devops Training"
+echo -e "\e[31mWell Come to Devops Training\e[0m"
 
 echo -e Good Evening
 
 # Disable Color Code  - 0
 
-echo -e "\e[31mWell Come to Devops Training\e[0m"
+
