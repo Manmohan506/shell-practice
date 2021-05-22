@@ -4,6 +4,7 @@
 function sample1() {
     echo a - $a
     echo Hello from Function1
+    b=20
 }
 
 sample2(){
@@ -15,3 +16,4 @@ sample2(){
 a=10
 sample1
 sample2
+echo b - $b
