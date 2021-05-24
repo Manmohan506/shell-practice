@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo Automating frontend component
+ echo Automating frontend component
