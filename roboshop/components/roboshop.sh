@@ -1,1 +1,3 @@
-a
+#!/bin/bash
+
+echo Automating rabbitmq component
