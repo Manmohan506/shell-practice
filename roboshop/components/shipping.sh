@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo Automating cart component
+echo Automating shipping component
